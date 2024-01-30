@@ -1,0 +1,8 @@
+In notebook:
+matplotlib==3.7.1
+pandas==1.5.3
+
+In .py file:
+streamlit==1.30.0
+pandas==2.0.3
+matplotlib==3.7.4
